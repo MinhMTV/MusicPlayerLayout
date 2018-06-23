@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="category_search">Search</string>
+    <string name="category_play">Play</string>
+    <string name="category_library">Library</string>
+    <string name="category_favorites">Favorites</string>
+    <string name="songs">Songs</string>
+    <string name="filter">Filter</string>
+    <string name="search_songs">Search Song</string>
+</resources>
